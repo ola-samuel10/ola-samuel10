@@ -1,5 +1,5 @@
 ### Hi there 👋 am Samuel Olajide 
-![woman-with-long-hair-yellow-hoodie-with-word-music-it](https://github.com/ola-samuel10/ola-samuel10/assets/77274476/3f248573-ceb9-45c7-b49c-10b658078198)
+
 
 
 I am a skilled Flutter developer  years of experience in building cross-platform mobile applications. With a strong foundation in Dart programming language and a passion for creating beautiful and performant user interfaces, I have developed a deep understanding of the Flutter framework.
