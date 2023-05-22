@@ -1,5 +1,7 @@
-### Hi there 👋 am Samuel Olajide 
-I am a skilled Flutter developer with [X] years of experience in building cross-platform mobile applications. With a strong foundation in Dart programming language and a passion for creating beautiful and performant user interfaces, I have developed a deep understanding of the Flutter framework.
+### Hi there 👋 am Samuel Olajide  <a href="URL_REDIRECT" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://img.freepik.com/free-photo/lion-king-with-full-armor-weapon-generative-ai_191095-521.jpg?w=740&t=st=1684731487~exp=1684732087~hmac=77bf63d4a61eb5bdedfe440567f3f01350d35091ac3cc37dc034ec55e2accdf2)" height="100" /></a>
+
+
+I am a skilled Flutter developer  years of experience in building cross-platform mobile applications. With a strong foundation in Dart programming language and a passion for creating beautiful and performant user interfaces, I have developed a deep understanding of the Flutter framework.
 
 My Expertise:
 - Flutter App Development: I specialize in developing high-quality, scalable, and user-friendly Flutter applications that run smoothly on both Android and iOS platforms.
@@ -16,6 +18,8 @@ Why Choose Me:
 - Continuous Learning: I stay updated with the latest Flutter trends and best practices, constantly improving my skills and exploring new technologies to deliver cutting-edge solutions.
 
 If you are looking for a dedicated and talented Flutter developer to bring your app idea to life, I would love to discuss your project and contribute my expertise to its success. Let's create something amazing together!
+
+
 <!--
 **ola-samuel10/ola-samuel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
