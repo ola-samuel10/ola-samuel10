@@ -19,6 +19,9 @@ Why Choose Me:
 
 If you are looking for a dedicated and talented Flutter developer to bring your app idea to life, I would love to discuss your project and contribute my expertise to its success. Let's create something amazing together!
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BWORLD1&theme=ambient-gradient)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BWORLD&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 <!--
 **ola-samuel10/ola-samuel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
